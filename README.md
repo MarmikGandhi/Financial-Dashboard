@@ -75,22 +75,6 @@ This project was created as part of my internship to demonstrate data visualizat
 
 ---
 
-## 📷 Dashboard Preview
-
-See full dashboard screenshot:
-![Dashboard](Dashboard.png)
-
----
-
-## 📬 Contact
-
-If you have any questions, feedback, or collaboration ideas:
-
-* 📧 Email: \[[your-email@example.com](mailto:your-email@example.com)]
-* 💼 LinkedIn: \[your-linkedin-profile]
-
----
-
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
