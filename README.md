@@ -10,11 +10,13 @@ This repository showcases an interactive **Financial Dashboard** created using *
 
 ## 📁 Project Structure
 
+```
 📦 Financial-Dashboard/
 ├── 📊 Financial Dashboard.pbix      # Power BI dashboard file
 ├── 📈 Financials.xlsx               # Source Excel dataset
 ├── 🖼️ Dashboard.png                  # Preview image of the dashboard
 └── 📄 README.md                      # Project documentation
+```
 
 ---
 
@@ -56,8 +58,9 @@ This repository showcases an interactive **Financial Dashboard** created using *
 ## 🚀 How to Use
 
 1. Clone this repository or download it as a ZIP:
-
+   ```bash
    git clone https://github.com/your-username/financial-dashboard.git
+   ```
 
 2. Open `Financial Dashboard.pbix` in **Power BI Desktop**.
 
@@ -70,13 +73,3 @@ This repository showcases an interactive **Financial Dashboard** created using *
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♀️ Author
-
-Developed by **Marmik Gandhi** Feel free to connect:  
-- GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
-- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
-- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
-
