@@ -6,8 +6,6 @@
 
 This repository showcases an interactive **Financial Dashboard** created using **Power BI**. It provides a clear visualization of business performance metrics such as gross sales, total profit, units sold, average discounts, and more, using dynamic charts and slicers. The data is sourced from an Excel file and analyzed across different countries, products, and customer segments.
 
-> 📝 **Note**: This dashboard was developed as part of my internship project and serves as a real-time example of my ability to handle business intelligence tasks using Power BI.
-
 ---
 
 ## 📁 Project Structure
