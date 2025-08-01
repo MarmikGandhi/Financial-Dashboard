@@ -69,12 +69,6 @@ This repository showcases an interactive **Financial Dashboard** created using *
 
 ---
 
-## 📌 Internship Note
-
-This project was created as part of my internship to demonstrate data visualization and business intelligence capabilities using Power BI. It reflects real-world scenario handling, analytical thinking, and dashboard creation from raw data.
-
----
-
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
